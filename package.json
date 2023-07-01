@@ -1,0 +1,21 @@
+{
+  "name": "nodejstu",
+  "version": "1.0.0",
+  "description": "this is Nodejs Training ",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test",
+    "build": "npm install",
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riddhendu/Nodejstu.git"
+  },
+  "author": "Riddhendu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riddhendu/Nodejstu/issues"
+  },
+  "homepage": "https://github.com/Riddhendu/Nodejstu#readme"
+}
